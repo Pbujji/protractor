@@ -1,0 +1,13 @@
+{
+   "bank":{
+      "url":"http://www.way2automation.com/angularjs-protractor/banking/#/login",
+      "firstName":"Bujji",
+      "lastName":"Baisani",
+      "postCode":"94536",
+      "creditCurrency":"2000",
+      "debitCurrency":"1000",
+      "wrongCurrency":"2001",
+      "credit":"Credit",
+      "debit":"Debit"
+    }
+}

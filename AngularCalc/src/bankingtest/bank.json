@@ -1,0 +1,6 @@
+{
+   "bank":{
+      "url":"http://www.way2automation.com/angularjs-protractor/banking/#/login",
+      "customerURL":"http://www.way2automation.com/angularjs-protractor/banking/#/customer"
+     }
+}
